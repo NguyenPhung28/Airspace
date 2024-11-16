@@ -1,0 +1,101 @@
+transaction_id,listing_id,guest_id,booking_start_date,booking_end_date,num_guests,booking_status,total_price,payment_status,payment_method,service_fee,payout_to_host,special_requests,host_notes
+1,45,48,2024-02-27,2024-08-25,5,pending,653.52,paid,bank transfer,8.59,835.81,None,Very tidy guests
+2,57,43,2024-10-10,2024-09-22,5,confirmed,245.87,pending,credit card,32.3,677.74,Extra towels,No issues
+3,44,57,2024-01-30,2024-06-27,1,confirmed,425.3,refunded,credit card,18.29,551.78,Late check-in,Left early
+4,25,100,2024-08-01,2024-01-03,2,confirmed,511.85,refunded,bank transfer,18.14,677.55,None,Very tidy guests
+5,24,29,2024-06-17,2024-03-28,4,pending,935.44,refunded,bank transfer,43.99,810.32,None,No issues
+6,26,94,2024-03-23,2024-05-09,4,canceled,317.43,pending,paypal,16.16,687.09,None,No issues
+7,13,51,2024-02-28,2024-05-13,1,canceled,88.55,paid,bank transfer,34.67,702.26,None,Very tidy guests
+8,64,27,2024-06-07,2024-06-11,1,canceled,135.52,paid,paypal,17.23,457.44,Late check-in,Left early
+9,35,43,2024-07-14,2024-09-05,2,confirmed,776.45,pending,credit card,15.26,403.54,None,Left early
+10,15,54,2024-07-20,2024-09-25,1,canceled,163.55,pending,paypal,49.33,412.4,None,Left early
+11,40,13,2024-08-02,2024-05-24,5,confirmed,63.84,refunded,bank transfer,19.73,239.67,None,No issues
+12,93,83,2024-01-01,2024-01-20,2,pending,459.04,paid,paypal,11.67,239.57,Extra towels,No issues
+13,34,10,2024-06-25,2024-10-02,5,pending,226.66,refunded,bank transfer,44.92,781.18,None,Left early
+14,41,67,2024-03-08,2024-03-19,5,pending,636.51,pending,credit card,49.62,227.88,Extra towels,No issues
+15,44,18,2024-05-23,2024-01-11,5,canceled,979.71,paid,paypal,33.94,797.21,Late check-in,Left early
+16,69,67,2024-01-21,2024-04-24,5,pending,54.12,refunded,paypal,28.15,326.63,Extra towels,No issues
+17,54,32,2024-10-06,2024-08-18,2,canceled,312.6,paid,credit card,25.95,886.08,Extra towels,No issues
+18,36,59,2024-01-12,2024-04-05,2,pending,159.87,refunded,credit card,31.59,462.86,None,Left early
+19,67,72,2024-10-18,2024-02-09,5,canceled,360.73,paid,bank transfer,42.92,403.44,Late check-in,No issues
+20,59,50,2024-05-17,2024-04-01,5,canceled,743.11,paid,credit card,12.56,439.0,Extra towels,Left early
+21,80,21,2024-07-10,2024-03-11,5,confirmed,360.18,pending,credit card,23.04,114.72,Extra towels,Left early
+22,92,63,2024-09-18,2024-03-13,1,canceled,644.02,refunded,paypal,28.24,81.53,Extra towels,Very tidy guests
+23,48,80,2024-07-26,2024-05-26,2,canceled,872.94,paid,bank transfer,14.29,655.51,Extra towels,Left early
+24,1,78,2024-05-26,2024-01-15,4,confirmed,672.9,paid,paypal,41.23,631.98,Extra towels,Very tidy guests
+25,28,89,2024-06-13,2024-09-25,1,pending,73.96,pending,paypal,46.82,258.6,None,Left early
+26,36,15,2024-02-21,2024-10-01,2,confirmed,339.02,pending,paypal,42.94,356.68,None,Left early
+27,54,88,2024-03-04,2024-03-09,5,canceled,704.95,refunded,credit card,32.93,708.65,Extra towels,Left early
+28,89,76,2024-10-03,2024-04-27,5,confirmed,77.41,pending,paypal,30.32,395.74,Late check-in,No issues
+29,1,81,2024-05-11,2024-08-12,5,pending,391.88,pending,paypal,28.83,597.84,Late check-in,No issues
+30,67,32,2024-05-15,2024-03-12,3,pending,609.26,pending,credit card,42.77,509.6,Late check-in,Left early
+31,79,20,2024-04-08,2024-09-15,2,confirmed,187.15,paid,bank transfer,49.55,90.29,Late check-in,Very tidy guests
+32,87,62,2024-02-16,2024-02-12,2,pending,511.37,refunded,paypal,10.57,652.05,None,No issues
+33,45,20,2024-04-01,2024-09-30,2,pending,177.75,pending,bank transfer,24.12,638.93,None,Very tidy guests
+34,80,76,2024-10-18,2024-09-13,1,canceled,844.94,refunded,paypal,6.73,628.51,Extra towels,Left early
+35,81,17,2024-10-03,2024-07-29,5,canceled,619.33,pending,paypal,25.9,368.75,Late check-in,Left early
+36,69,47,2024-08-05,2024-07-09,5,pending,789.36,pending,bank transfer,44.37,60.26,Extra towels,No issues
+37,75,24,2024-10-15,2024-01-06,5,canceled,627.89,pending,credit card,29.61,137.32,None,Left early
+38,19,55,2024-02-29,2024-04-24,1,canceled,604.85,paid,bank transfer,46.74,314.94,None,Left early
+39,55,94,2024-08-02,2024-03-08,4,canceled,539.31,pending,credit card,34.54,108.93,None,Left early
+40,32,78,2024-02-03,2024-09-04,4,confirmed,548.7,paid,paypal,31.5,179.93,Extra towels,No issues
+41,47,73,2024-09-24,2024-10-16,3,confirmed,388.13,refunded,credit card,5.32,425.58,Late check-in,Left early
+42,95,22,2024-02-06,2024-08-26,3,confirmed,483.4,paid,bank transfer,41.39,640.41,None,Very tidy guests
+43,98,13,2024-02-13,2024-05-15,2,confirmed,357.43,paid,bank transfer,46.63,683.25,Extra towels,Left early
+44,19,35,2024-10-11,2024-04-26,2,confirmed,360.29,pending,paypal,12.73,325.79,Late check-in,Very tidy guests
+45,41,98,2024-03-01,2024-07-29,5,confirmed,326.99,pending,credit card,8.0,774.4,Late check-in,No issues
+46,39,92,2024-07-26,2024-10-15,2,pending,281.84,refunded,credit card,19.59,438.87,None,Very tidy guests
+47,54,95,2024-06-12,2024-10-13,1,canceled,609.98,pending,paypal,13.59,722.93,Late check-in,Left early
+48,16,19,2024-10-04,2024-04-11,1,pending,983.16,refunded,credit card,33.96,157.63,Extra towels,No issues
+49,58,64,2024-06-06,2024-06-23,5,pending,995.55,pending,paypal,35.44,226.68,Late check-in,Left early
+50,90,86,2024-01-15,2024-06-09,1,canceled,65.72,paid,credit card,30.76,305.46,None,Very tidy guests
+51,70,5,2024-05-21,2024-08-11,1,pending,720.42,refunded,bank transfer,12.42,181.17,Extra towels,Left early
+52,85,52,2024-08-12,2024-06-30,3,pending,202.69,pending,paypal,38.96,73.61,None,Very tidy guests
+53,69,62,2024-03-19,2024-03-09,5,canceled,565.74,paid,paypal,24.14,206.16,Extra towels,No issues
+54,44,1,2024-01-18,2024-05-12,3,pending,54.68,paid,credit card,19.58,947.6,Extra towels,Left early
+55,1,71,2024-05-15,2024-05-21,4,confirmed,585.93,pending,credit card,12.9,342.13,Late check-in,Very tidy guests
+56,94,66,2024-05-23,2024-01-01,3,canceled,562.97,paid,credit card,27.47,595.03,Extra towels,Very tidy guests
+57,15,12,2024-05-14,2024-06-15,4,canceled,566.42,refunded,credit card,35.56,222.52,Extra towels,No issues
+58,90,44,2024-03-31,2024-07-16,3,canceled,923.06,refunded,bank transfer,40.51,148.14,Extra towels,No issues
+59,9,68,2024-07-21,2024-06-11,4,pending,134.53,paid,paypal,17.95,156.11,Extra towels,No issues
+60,91,70,2024-03-25,2024-10-11,3,canceled,872.17,refunded,paypal,48.43,601.23,Late check-in,Left early
+61,88,46,2024-06-30,2024-01-17,1,pending,420.75,refunded,credit card,33.65,597.45,None,Left early
+62,63,72,2024-08-01,2024-09-03,4,confirmed,204.41,refunded,credit card,15.35,396.47,Extra towels,Left early
+63,87,95,2024-06-15,2024-02-01,5,canceled,703.34,pending,bank transfer,32.79,738.26,Late check-in,Very tidy guests
+64,5,5,2024-06-20,2024-01-25,3,canceled,192.16,pending,bank transfer,21.2,52.94,Extra towels,Left early
+65,70,84,2024-03-22,2024-03-05,3,pending,833.96,paid,paypal,25.05,329.15,Extra towels,Very tidy guests
+66,86,61,2024-04-24,2024-06-29,4,confirmed,643.37,refunded,bank transfer,48.27,77.53,Late check-in,Left early
+67,100,4,2024-09-11,2024-07-05,3,pending,415.58,paid,bank transfer,6.79,903.63,Late check-in,Very tidy guests
+68,60,85,2024-06-03,2024-01-28,1,pending,704.89,paid,bank transfer,48.56,824.56,Late check-in,No issues
+69,76,49,2024-05-15,2024-08-23,1,canceled,185.35,pending,paypal,22.36,586.8,None,No issues
+70,2,95,2024-04-23,2024-06-25,2,canceled,109.66,pending,paypal,11.48,450.81,Extra towels,Left early
+71,88,31,2024-07-06,2024-04-29,5,canceled,197.52,refunded,credit card,23.06,121.51,Late check-in,Very tidy guests
+72,54,21,2024-03-19,2024-04-26,1,canceled,847.85,paid,paypal,33.03,859.06,Late check-in,Very tidy guests
+73,83,19,2024-07-09,2024-08-08,5,confirmed,743.46,refunded,credit card,6.85,396.16,None,Left early
+74,3,97,2024-07-07,2024-02-27,1,confirmed,73.79,refunded,bank transfer,34.17,627.39,Extra towels,Left early
+75,59,27,2024-07-26,2024-06-23,3,pending,948.04,pending,bank transfer,35.12,199.37,Late check-in,Left early
+76,73,64,2024-07-07,2024-01-13,1,pending,510.39,paid,credit card,22.2,782.31,Extra towels,No issues
+77,1,35,2024-10-09,2024-08-19,3,confirmed,429.99,pending,paypal,12.62,313.74,None,Very tidy guests
+78,26,38,2024-02-16,2024-10-14,2,pending,571.9,pending,paypal,49.83,255.78,Late check-in,Left early
+79,49,94,2024-02-17,2024-05-06,5,confirmed,54.42,paid,paypal,18.07,166.51,None,No issues
+80,95,51,2024-07-15,2024-10-08,5,pending,625.09,pending,paypal,49.45,378.8,None,No issues
+81,55,7,2024-08-19,2024-09-06,3,canceled,389.17,paid,credit card,10.72,578.56,Late check-in,Left early
+82,27,4,2024-03-27,2024-02-09,2,confirmed,293.08,paid,credit card,44.73,143.07,Extra towels,Very tidy guests
+83,24,98,2024-06-17,2024-08-31,2,confirmed,899.96,refunded,bank transfer,42.96,178.5,Late check-in,Very tidy guests
+84,40,41,2024-02-12,2024-02-04,3,canceled,342.02,refunded,bank transfer,5.64,900.27,Extra towels,Very tidy guests
+85,17,76,2024-06-25,2024-05-18,3,confirmed,355.5,pending,credit card,25.08,258.89,Extra towels,No issues
+86,3,33,2024-01-13,2024-03-27,1,pending,509.09,refunded,credit card,35.91,404.71,None,Left early
+87,2,33,2024-08-17,2024-08-01,3,confirmed,981.11,refunded,paypal,25.13,182.53,Extra towels,Left early
+88,100,12,2024-09-24,2024-02-26,5,pending,523.51,refunded,credit card,35.26,175.09,Late check-in,Left early
+89,67,15,2024-10-21,2024-06-28,2,canceled,535.62,pending,credit card,10.88,392.31,Late check-in,Very tidy guests
+90,80,9,2024-02-07,2024-01-15,1,pending,686.16,refunded,paypal,24.96,676.58,None,Left early
+91,40,45,2024-08-12,2024-03-03,5,pending,332.27,paid,paypal,41.69,339.37,None,Left early
+92,46,84,2024-05-09,2024-02-24,5,pending,145.24,refunded,credit card,32.85,499.33,Late check-in,Very tidy guests
+93,44,51,2024-10-17,2024-10-15,3,canceled,472.55,pending,paypal,40.69,332.54,Late check-in,Very tidy guests
+94,75,36,2024-07-28,2024-06-03,5,confirmed,934.43,refunded,bank transfer,24.08,642.01,Late check-in,No issues
+95,100,58,2024-08-03,2024-04-12,1,canceled,646.58,pending,bank transfer,23.57,198.37,Extra towels,Left early
+96,33,21,2024-05-14,2024-04-22,3,confirmed,159.22,refunded,credit card,36.71,60.47,Late check-in,Left early
+97,23,39,2024-02-04,2024-01-01,3,confirmed,333.99,pending,bank transfer,32.81,117.96,None,No issues
+98,13,65,2024-07-08,2024-02-15,3,canceled,376.05,paid,credit card,13.38,725.63,Late check-in,Very tidy guests
+99,64,96,2024-01-23,2024-07-26,5,confirmed,568.66,paid,bank transfer,47.63,197.63,None,Very tidy guests
+100,60,90,2024-08-24,2024-02-14,1,canceled,368.57,refunded,credit card,22.59,619.43,Extra towels,No issues

@@ -1,0 +1,101 @@
+vehicle_id,user_id,make,model,plate_number,Description,is_default,created_at,updated_at
+1,81,Toyota,3 Series,663E,White 2003,True,22-05-21,24-01-24
+2,81,Honda,Civic,1FD Q83,White 2005,False,03-06-21,06-08-24
+3,54,Honda,Civic,D86-33F,Gray 2009,True,30-10-23,26-04-24
+4,92,Ford,3 Series,WEN 865,Gray 2005,False,03-10-21,26-02-24
+5,65,BMW,Camry,18BM6,Red 2005,False,20-08-22,13-01-24
+6,23,Toyota,3 Series,0373 GJ,Black 2021,True,13-11-21,05-10-24
+7,23,Ford,3 Series,HVU 200,Red 2006,True,20-01-24,27-09-24
+8,49,Toyota,F-150,998 ZHQ,Black 2013,False,14-05-22,25-04-24
+9,69,Ford,F-150,30-8311U,Gray 2008,True,29-03-21,11-04-24
+10,94,Ford,F-150,1HD 663,White 2004,True,16-07-24,14-10-24
+11,75,BMW,Camry,KHU 818,Red 2000,True,27-04-24,16-03-24
+12,90,Chevrolet,Camry,13U 1617,Blue 2011,True,18-10-21,18-08-24
+13,90,BMW,Silverado,HTL 378,Gray 2010,True,07-03-22,14-09-24
+14,47,Ford,F-150,NPX4040,Red 2021,False,09-08-22,14-09-24
+15,38,Toyota,Civic,EPS0945,Red 2018,False,23-07-23,14-09-24
+16,4,Ford,Silverado,177 OLU,White 2011,True,08-07-22,16-01-24
+17,85,BMW,F-150,JJQ-2398,Gray 2017,False,12-07-23,24-09-24
+18,7,BMW,F-150,DW5 0585,Black 2023,False,15-11-23,31-07-24
+19,66,BMW,Silverado,451 6969,White 2019,False,23-01-24,30-08-24
+20,8,Honda,Camry,04S 5693,Red 2003,False,18-03-24,02-10-24
+21,31,Honda,F-150,7723,Black 2021,False,11-12-21,26-06-24
+22,83,Toyota,Silverado,331-CPA,White 2008,False,09-04-20,02-07-24
+23,31,Honda,Camry,5-53873L,Red 2021,False,05-03-24,06-03-24
+24,87,Ford,Silverado,33-A855,Blue 2015,False,01-02-23,09-08-24
+25,94,Toyota,F-150,7F 8159I,Gray 2017,True,26-08-24,25-09-24
+26,82,Chevrolet,Civic,VIN U47,Blue 2007,True,22-03-20,01-01-24
+27,8,Toyota,Silverado,JOT 513,Red 2009,True,10-05-20,23-08-24
+28,68,Honda,F-150,N31 6QJ,White 2021,False,29-09-24,18-01-24
+29,42,Chevrolet,3 Series,P10-29L,Black 2005,True,31-10-20,12-08-24
+30,78,Ford,Camry,576 GUP,Gray 2014,True,15-05-23,24-09-24
+31,46,Ford,3 Series,7SO 651,Black 2023,True,31-10-20,07-04-24
+32,84,Chevrolet,Camry,OCX B46,Black 2018,False,03-05-23,21-05-24
+33,83,Honda,Silverado,4D555,White 2015,True,17-03-23,29-07-24
+34,14,Honda,Camry,5XQY471,Black 2016,False,10-02-23,06-05-24
+35,20,Chevrolet,Civic,336-LXS,Black 2006,True,08-07-23,28-08-24
+36,2,BMW,Civic,2UI8307,Red 2007,False,02-07-21,05-04-24
+37,17,BMW,F-150,48-IA62,Red 2013,True,20-08-20,29-05-24
+38,92,Chevrolet,3 Series,31U 916,Red 2005,True,15-10-23,12-01-24
+39,68,Honda,Silverado,490-767,White 2005,False,13-04-21,31-08-24
+40,15,Chevrolet,Silverado,281 5CE,Red 2007,False,05-06-24,03-09-24
+41,100,Toyota,Silverado,LYG 043,Blue 2004,False,20-01-21,07-05-24
+42,21,Chevrolet,3 Series,J32 2RV,Gray 2010,True,23-09-20,30-05-24
+43,38,BMW,3 Series,014-236,Gray 2005,True,08-05-22,12-01-24
+44,83,Ford,3 Series,070-589,Blue 2007,True,03-01-21,26-06-24
+45,54,Toyota,Camry,88R 811,Gray 2011,False,08-10-23,25-07-24
+46,20,Toyota,3 Series,6U P2773,Gray 2001,False,15-01-22,21-01-24
+47,83,Honda,3 Series,1H 3464P,White 2007,True,29-04-20,20-03-24
+48,62,Honda,F-150,7RJ T85,Red 2009,True,11-12-21,20-08-24
+49,8,Chevrolet,Civic,350 PIP,Red 2023,True,01-11-22,09-07-24
+50,19,Chevrolet,3 Series,GGX9133,Gray 2017,False,07-10-24,05-10-24
+51,72,Ford,3 Series,CBF6438,Red 2007,True,25-02-23,04-09-24
+52,1,Ford,F-150,8YB0831,Blue 2010,True,18-03-22,01-07-24
+53,19,Toyota,3 Series,369 CSO,White 2007,False,06-05-20,29-04-24
+54,12,Ford,F-150,OHJ-052,Gray 2000,False,23-09-24,23-04-24
+55,85,Honda,3 Series,261 IGJ,Red 2005,True,30-01-22,17-08-24
+56,58,BMW,Camry,ZMX 487,White 2006,False,30-06-24,14-07-24
+57,85,Toyota,3 Series,653-NZX,Blue 2019,True,20-01-20,13-05-24
+58,3,Toyota,Silverado,KBZ 394,Black 2019,True,02-01-24,21-07-24
+59,23,Chevrolet,F-150,JOG6993,Gray 2000,True,16-08-21,04-02-24
+60,88,BMW,Silverado,LG4 E2Y,Gray 2012,False,06-06-24,07-09-24
+61,66,BMW,Camry,ZBA 138,White 2016,False,11-04-23,18-07-24
+62,62,Honda,3 Series,179 NYA,Black 2011,True,08-09-20,14-04-24
+63,58,BMW,F-150,S27 9CV,Blue 2020,False,09-06-24,29-02-24
+64,45,Chevrolet,Silverado,YYU 115,Red 2020,True,14-12-21,28-07-24
+65,22,Honda,Silverado,12K•289,Blue 2000,False,03-09-20,05-08-24
+66,29,Honda,Silverado,80-E110,Red 2020,True,01-07-20,13-01-24
+67,15,Honda,3 Series,WDM1633,Red 2008,False,15-04-24,23-03-24
+68,92,Ford,Camry,7RI1934,Black 2015,False,07-08-21,10-08-24
+69,51,Honda,Civic,8BO 015,Black 2015,True,08-01-22,11-02-24
+70,24,Honda,F-150,UKR 753,Gray 2018,False,22-02-22,19-08-24
+71,73,Toyota,Camry,GIH-0853,Black 2018,False,05-03-22,17-08-24
+72,98,Honda,F-150,235-CZK,Blue 2012,False,10-04-24,09-05-24
+73,46,Ford,3 Series,ERS1053,White 2004,False,04-01-24,01-01-24
+74,39,BMW,Camry,S30 2WR,Blue 2005,True,05-04-20,06-07-24
+75,32,BMW,Silverado,97H 2283,Black 2008,True,07-06-23,06-05-24
+76,52,Chevrolet,Civic,8Z851,Blue 2000,False,12-03-21,26-08-24
+77,81,Toyota,3 Series,VYN 0813,Gray 2009,True,29-08-22,22-08-24
+78,40,Ford,Civic,ZFV 516,Gray 2021,False,14-10-20,22-10-24
+79,79,Chevrolet,Camry,578 HBR,Black 2023,True,20-09-21,11-07-24
+80,55,Toyota,Camry,BGZ-067,Blue 2019,True,22-12-23,20-08-24
+81,81,Honda,Silverado,HOZ 429,Red 2014,True,22-03-24,08-09-24
+82,10,Ford,Camry,2F 85943,Gray 2010,True,16-10-23,08-05-24
+83,21,BMW,3 Series,25-W571,Black 2006,False,28-01-20,15-01-24
+84,40,Toyota,3 Series,8FI57,Black 2010,True,21-09-23,08-09-24
+85,46,Honda,3 Series,L87 0QX,Gray 2005,False,11-02-21,12-02-24
+86,80,Toyota,Civic,6SRW495,White 2002,True,25-02-22,08-01-24
+87,55,Chevrolet,F-150,ZLF1303,Gray 2015,False,21-01-21,10-09-24
+88,44,BMW,Silverado,937 IUP,White 2021,True,10-10-22,05-01-24
+89,9,Toyota,F-150,643-NHW,Red 2013,True,26-12-23,13-06-24
+90,39,Toyota,Silverado,TOD-8919,Blue 2016,False,27-04-22,25-03-24
+91,28,Chevrolet,Civic,ZXP2388,Blue 2002,False,20-08-23,06-07-24
+92,73,Honda,F-150,48X IV7,Gray 2013,True,12-05-21,02-06-24
+93,1,BMW,Silverado,70S WD5,Red 2015,True,13-09-23,23-09-24
+94,51,Toyota,F-150,911 WBM,Gray 2022,True,06-01-23,24-07-24
+95,20,Toyota,Camry,CIG-3827,Black 2016,False,14-11-20,15-01-24
+96,80,BMW,3 Series,HTQ 076,Gray 2023,True,07-03-20,30-06-24
+97,30,Chevrolet,Silverado,299-DYP,Red 2014,False,26-03-21,22-04-24
+98,57,Toyota,F-150,75E 327,Red 2003,False,09-05-20,26-01-24
+99,98,BMW,Civic,ZTH 472,Black 2020,False,18-10-22,04-02-24
+100,80,Chevrolet,F-150,212ISG,Black 2020,True,08-04-21,27-03-24
